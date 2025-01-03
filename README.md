@@ -59,7 +59,7 @@ For questions or feedback, feel free to reach out at **[prajeep6@gmail.com](mail
 
 ---
 
-## 🎮 Demo
+## 🎮 Demo.
 
 Check out the live version of the game: [Stack Builder Game](https://Prajeesh-A.github.io/stack-game)
 
